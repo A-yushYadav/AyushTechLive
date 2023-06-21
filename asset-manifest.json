@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AyushTechLive/static/css/main.46570db8.css",
+    "main.js": "/AyushTechLive/static/js/main.ffb82bc7.js",
+    "static/media/digital.jpg": "/AyushTechLive/static/media/digital.7e317f021b2c147766f7.jpg",
+    "static/media/web.jpg": "/AyushTechLive/static/media/web.89ff038b50690c7a4eb7.jpg",
+    "index.html": "/AyushTechLive/index.html",
+    "main.46570db8.css.map": "/AyushTechLive/static/css/main.46570db8.css.map",
+    "main.ffb82bc7.js.map": "/AyushTechLive/static/js/main.ffb82bc7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46570db8.css",
+    "static/js/main.ffb82bc7.js"
+  ]
+}
