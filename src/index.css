@@ -80,11 +80,24 @@
 }
 
 .card {
-  width: 15rem;
+  width: 100%;
+  max-width: 16rem;
+  margin: 0 auto;
 }
 
 .card-img-top {
-  height: 12rem;
+ height: auto;
+  max-height: 12rem;
+  object-fit: cover;
+}
+@media (max-width: 768px) {
+  .card {
+    max-width: 100%;
+  }
+
+  .card-img-top {
+    max-height: 10rem;
+  }
 }
 
 @media (max-width:991px){
